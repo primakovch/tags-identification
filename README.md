@@ -44,6 +44,7 @@ The metric used to score the model perfomance was f1 score.
 The first model and the second produced an f1_score of 0.74513 and 0.74586 respectively on the test dataset. The model went on to give an f1_score of 0.7346 on the benchmark dataset defined for the hackathon.
 
 [Note: 1.word_freq.ipynb is used to return some of the most common words in the text which do not convey much meaning. This texts are removed as they do not contribute much to the model's performance.
+
 2. People are encouraged to play with the hyperparameters such as n-gram values and common words to be removed to increase the model's performance.]
 
 
