@@ -45,7 +45,7 @@ The first model and the second produced an f1_score of 0.74513 and 0.74586 respe
 
 [Note:
 1. word_freq.ipynb is used to return some of the most common words in the text which do not convey much meaning. This texts are removed as they do not contribute much to the model's performance.The top n most frequent words(as specified) are saved in the "frequently_used.txt" file.
-2. People are encouraged to play with the hyperparameters such as n-gram values and common words to be removed to increase the model's performance.]
+2. People are encouraged to play with the hyperparameters such as n-gram values and common words to be removed to increase the model's performance. ]
 
 
 
